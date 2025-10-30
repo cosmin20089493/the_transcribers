@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.vscode/
+*.log
+*.wav
+*.mp3
+*.mp4
+*.zip
+*.onnx
+*.pt
+*.ckpt
