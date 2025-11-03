@@ -41,4 +41,10 @@ dist-ssr
 *.sw?
 
 .env
+<<<<<<< HEAD
 >>>>>>> 37abd25 (chore: add .gitignore defaults)
+=======
+
+# Managed Mem
+managed_mem.json
+>>>>>>> 2f71add (chore: clean .gitignore)
